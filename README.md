@@ -5,3 +5,5 @@
 ### Tech Stack:
 #### Python V2.7
 #### GAE-(Google App Engine)
+#### jinja2 API
+#### HTML and CSS
